@@ -1,0 +1,24 @@
+{
+  "files": {
+    "app.js": "robertjleggat.github.io/robertjleggat.github.io/static/js/app.33e5acff.chunk.js",
+    "app.js.map": "robertjleggat.github.io/robertjleggat.github.io/static/js/app.33e5acff.chunk.js.map",
+    "runtime~app.js": "robertjleggat.github.io/robertjleggat.github.io/static/js/runtime~app.19fc3b66.js",
+    "runtime~app.js.map": "robertjleggat.github.io/robertjleggat.github.io/static/js/runtime~app.19fc3b66.js.map",
+    "static/js/2.91d661c5.chunk.js": "robertjleggat.github.io/robertjleggat.github.io/static/js/2.91d661c5.chunk.js",
+    "static/js/2.91d661c5.chunk.js.map": "robertjleggat.github.io/robertjleggat.github.io/static/js/2.91d661c5.chunk.js.map",
+    "favicon-16.png": "robertjleggat.github.io/robertjleggat.github.io/favicon-16.png",
+    "favicon-32.png": "robertjleggat.github.io/robertjleggat.github.io/favicon-32.png",
+    "favicon.ico": "robertjleggat.github.io/robertjleggat.github.io/favicon.ico",
+    "index.html": "robertjleggat.github.io/robertjleggat.github.io/index.html",
+    "manifest.json": "robertjleggat.github.io/robertjleggat.github.io/manifest.json",
+    "serve.json": "robertjleggat.github.io/robertjleggat.github.io/serve.json",
+    "static/js/2.91d661c5.chunk.js.LICENSE.txt": "robertjleggat.github.io/robertjleggat.github.io/static/js/2.91d661c5.chunk.js.LICENSE.txt",
+    "static/media/profile.jpg": "robertjleggat.github.io/robertjleggat.github.io/static/media/profile.d707977e.jpg",
+    "static/media/resume1024_1.jpg": "robertjleggat.github.io/robertjleggat.github.io/static/media/resume1024_1.0f4c3f4a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.19fc3b66.js",
+    "static/js/2.91d661c5.chunk.js",
+    "static/js/app.33e5acff.chunk.js"
+  ]
+}
